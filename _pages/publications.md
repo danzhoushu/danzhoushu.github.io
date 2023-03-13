@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Latest list of publications can be found on my [Google Scholar]([https://link.springer.com/chapter/10.1007/978-3-031-17721-7_1](https://scholar.google.com/citations?user=g1Kz9DIAAAAJ&hl=en&oi=ao)).
+
 **Increasing the Accessibility of Peripheral Artery Disease Screening with Deep Learning** ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-17721-7_1))
 Adrit Rao, Oliver Aalami
 2022 MICCAI International Workshop on Applications of Medical Artificial Intelligence (AMAI)
