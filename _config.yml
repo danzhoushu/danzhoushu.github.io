@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dan Shu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dan Shu"
 description              : &description "personal description"
