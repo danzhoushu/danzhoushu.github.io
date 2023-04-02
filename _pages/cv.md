@@ -108,4 +108,14 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+**Quantifying Shmoo Results** ([Paper](https://www.slideshare.net/dshu178/shmoo-quantify))
+Dan Shu
+2014 Advantest VOICE
+
+
+Dowoload .pdf version of resume
+======
+
+  * [Dan Shu Resume](https://github.com/danzhoushu/danzhoushu.github.io/blob/master/files/Dan_Shu_Resume_Architect_20230328.pdf)
   
