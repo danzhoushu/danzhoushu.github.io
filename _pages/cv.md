@@ -87,12 +87,21 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Simulation Tools
+  * ADS
+  * SystemVue
+  * HFSS
+  * Matlab
+* Software
+  * Python
+  * JAVA
+  * C++
+  * VB6
+* Data Analysis Tools
+  * Spotfire
+  * JMP
+  * R
+  * Octave
 
 Publications
 ======
