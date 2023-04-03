@@ -17,5 +17,5 @@ The pictures below are generated from Spotfire and JMP using identical sample de
 <img src='/images/Spotfire_zoomin.png'>
 *Pic3: JMP example whole dataset view*
 
-<img src='/images/JMP_zoomin.png'>
+<img src='/images/JMP_zoomIn.png'>
 *Pic4: JMP example with filtered dataset view*
