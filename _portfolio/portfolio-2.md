@@ -8,14 +8,31 @@ For visualizing data, both software tools can do almost identical work. Behind t
 
 The pictures below are generated from Spotfire and JMP using identical sample demo datasets (artificially created and do not represent any real-world data).
 
-<img src='/images/Spotfire_all.png'>
+
+<a href="/images/Spotfire_all.png">
+    <img 
+        src="/images/Spotfire_all.png" 
+    >
+</a>
 *Pic1: Spotfire example, whole dataset view*
 
-<img src='/images/JMP_All.png'>
+<a href="/images/JMP_All.png">
+    <img 
+        src="/images/JMP_All.png" 
+    >
+</a>
 *Pic2: JMP example with filtered dataset view*
 
-<img src='/images/Spotfire_zoomin.png'>
+<a href="/images/Spotfire_zoomin.png">
+    <img 
+        src="/images/Spotfire_zoomin.png" 
+    >
+</a>
 *Pic3: JMP example whole dataset view*
 
-<img src='/images/JMP_zoomIn.png'>
+<a href="/images/JMP_zoomIn.png">
+    <img 
+        src="/images/JMP_zoomIn.png" 
+    >
+</a>
 *Pic4: JMP example with filtered dataset view*
