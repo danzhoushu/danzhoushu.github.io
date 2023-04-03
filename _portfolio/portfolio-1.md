@@ -1,10 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Matlab play around"
+excerpt: "Thercal BER vs. Eb/E0 <br/><img src='/images/system_architect_BER_web.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a play around example of Matlab. From below picture, we can see the Rx demodulation threshold at certain BER ratio for special modulation scheme. And in theory, BPSK and QPSK curves are identical in terms of BER vs. EB/N0  
 
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+<img src='/images/system_architect_BER_web.png'>
