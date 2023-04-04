@@ -1,6 +1,6 @@
 ---
 title: "Matlab Sandbox"
-excerpt: "Thercal BER vs. Eb/E0 <br/><img src='/images/system_architect_BER_web.png'>"
+excerpt: "Theoretical BER vs. Eb/E0 <br/><img src='/images/system_architect_BER_web.png'>"
 collection: portfolio
 ---
 
