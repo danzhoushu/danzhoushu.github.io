@@ -13,7 +13,7 @@ I am exceptional at taking on brand new challenges with a fresh pair of eyes. I 
 
 - My [M-shaped knowledge](https://www.linkedin.com/pulse/which-letter-shaped-employee-you-gaurav-sharma/) with a continuous learning and growth mindset is perfect as the architect role.
 - My architect role experience covers the wide range from silicon backend operation all the way to system level frontend concept design phase. 
-- My data analysis skills and experience brings huge value in data-driven decision making.
+- My data analysis skills and experience bring huge value in data-driven decision making.
 - I think outside of the box.
 
 I graduated from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) and post studied at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
