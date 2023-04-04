@@ -12,3 +12,6 @@ This is a sandbox example of [Matlab](https://matlab.mathworks.com/). From below
     >
 </a>
 *Matlab plot example*
+
+<image src="/media/vector_sum.gif" alt="Add_up" width="1000" /> 
+*Vector Sum Illustration*
