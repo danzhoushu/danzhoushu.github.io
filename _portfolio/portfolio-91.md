@@ -1,6 +1,6 @@
 ---
 title: "Clean Room"
-excerpt: "Business Trip to Taiwan OSAT <br/><img src='/images/CleanRoomAccess.png'>"
+excerpt: "Business trip to Taiwan OSAT <br/><img src='/images/CleanRoomAccess.png'>"
 collection: portfolio
 ---
 
