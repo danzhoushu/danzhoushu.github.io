@@ -6,7 +6,7 @@ collection: portfolio
 
 For visualizing data, both software tools can do almost identical work. Behind the scenes, [Spotfire](https://www.tibco.com/products/tibco-spotfire) and [JMP](https://www.jmp.com/en_us/home.html) are quite different in the software engine, which could lead to different performance in different use cases. I have worked with both tools before, and from time to time, I may prefer one tool over the other due to real-world applications.
 
-Both mySql and MSSQL are good options for holding engineering data. I have built both type of database per different business requirements.  
+Both [mySql](https://www.mysql.com/) and [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-2019) are good options for holding engineering data. I have built both type of database per different business requirements. The query languages are very similar, but in the real-life coding of those queries, between MySQL and MSSQL, almost every query file needs to be rewritten.
 
 The pictures below are generated from Spotfire and JMP using identical sample demo datasets (artificially created and do not represent any real-world data).
 
