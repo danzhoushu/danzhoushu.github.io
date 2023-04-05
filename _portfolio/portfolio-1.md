@@ -21,7 +21,7 @@ This is a sandbox example of [Matlab](https://matlab.mathworks.com/). From below
         src="/images/Matlab_complex_signal1.png" 
     >
 </a>
-*Euler's formula: 𝑒^(-𝑗ω𝑡) = cos(-ωt) - j sin(-ωt)*
+*Euler's formula: 𝑒^(𝑗ω𝑡) = cos(ωt) + jsin(ωt)*
 
 <a href="/images/Matlab_complex_signal2.png">
     <img 
