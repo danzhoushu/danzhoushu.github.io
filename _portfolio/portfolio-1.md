@@ -14,4 +14,18 @@ This is a sandbox example of [Matlab](https://matlab.mathworks.com/). From below
 *Matlab plot example*
 
 <image src="/media/vector_sum.gif" alt="Add_up" width="1000" /> 
-*Vector Sum Illustration*
+*Vector Sum Illustration: e^(j*2*pi*1)*
+
+<a href="/images/Matlab_complex_signal1.png">
+    <img 
+        src="/images/Matlab_complex_signal1.png" 
+    >
+</a>
+*Euler's formula: 𝑒^(-𝑗ω𝑡) = cos(-ωt) - j sin(-ωt)*
+
+<a href="/images/Matlab_complex_signal2.png">
+    <img 
+        src="/images/Matlab_complex_signal2.png" 
+    >
+</a>
+*Real signal* 
