@@ -1,15 +1,15 @@
 ---
-title: "Excel sheet tool for low power design"
-excerpt: "Small tool by excel without any add-on <br/><img src='/images/Power_Estimation.png'>"
+title: "Multivariate machine learning method for Vmin/Vmax calculation"
+excerpt: "Machine learning real use case <br/><img src='/images/ML1.png'>"
 collection: portfolio
 ---
 
-This small tool is very safe to use in a corporate environment since it doesn't require an add-on or VBE to function, which sets it apart from other solutions. However, as the complexity of use cases increases, some extra manual work may be required.
+Multivariate machine learning methods is a very effective tool for analyzing engineering data and designing dynamic voltage control algorithms for power-saving in SoC design
 
-<a href="/images/Power_Estimation.png">
+<a href="/images/ML1.png">
     <img 
-        src="/images/Power_Estimation.png" 
+        src="/images/ML1.png" 
     >
 </a>
-*Pic1: Power estimation excel tool for designer example*
+*Pic1: Multivariate machine learning method example*
 
