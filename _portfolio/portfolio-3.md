@@ -19,3 +19,11 @@ HFSS is widely used in daily RF design. The following example demonstrates that 
     >
 </a>
 *Pic2: Original Ideal*
+
+Making the signal-via structure like the waveguide is the key for routing signal trace from one layer to another layer.
+<a href="/images/backdrill.png">
+    <img 
+        src="/images/backdrill.png" 
+    >
+</a>
+*Pic3: Ground via holes with Backdrill *
