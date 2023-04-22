@@ -7,9 +7,12 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
    
   - title: "Publications"
     url: /publications/
+
+  - title: "Courses"
+    url: /courses/
     
