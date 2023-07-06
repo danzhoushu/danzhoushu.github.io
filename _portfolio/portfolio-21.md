@@ -11,7 +11,7 @@ Below is the example of S2P file smith chart plot by Scikit-RF. I also attached 
 
 <a href="/images/Figure_skrf_smith.png">
     <img 
-        src="/images/SFigure_skrf_smith.png" 
+        src="/images/Figure_skrf_smith.png" 
     >
 </a>
 *Pic1: Smith Chart example*
@@ -48,11 +48,7 @@ plt.minorticks_on()
 plt.grid(True, which='minor', linestyle='--', linewidth=0.25, color='red')
 
 
-# Add labels and title
-# plt.xlabel('X')
-# plt.ylabel('Y')
 plt.title('Python Scikit-RF demo S-Parameter plot by Dan')
-# plt.draw_if_interactive()
 
 legend_labels = ['S11 (dB)', 'S21 (dB)', 'S12 (dB)', 'S22 (dB)']
 plt.legend(legend_labels)
@@ -66,37 +62,36 @@ plt.tick_params(which='minor', width=2, length=4, color='grey')
 plt.figure(2)
 ring_slot.plot_s_smith()
 plt.title('Python Scikit-RF demo Smith Chart plot by Dan')
-# plt.draw_if_interactive()
 
 plt.show()
 
 
-# Batch file path
+
 batch_file = 'C:/Users/Dan/Dropbox/personal/Dan/Self_learning/python/trial1.bat'
 
-# Open the CMD window and execute the batch file
+
 subprocess.Popen(['cmd', '/k', batch_file], shell=True)
 
 webbrowser.register('chrome', None, webbrowser.BackgroundBrowser('C:\Program Files\Google\Chrome\Application\chrome.exe'))
 
-# Website URL
+
 url = 'https://danzhoushu.github.io/posts/2023/04/blog-post-1/'
 
-# Open the website in Google Chrome
+
 webbrowser.get('chrome').open(url)
 
 webbrowser.register('chrome', None, webbrowser.BackgroundBrowser('C:\Program Files\Google\Chrome\Application\chrome.exe'))
 
-# Website URL
+
 website_url = 'https://danzhoushu.github.io/portfolio/portfolio-11/'
 
 chrome_path = r'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
 
-# Open Chrome with the website
+
 subprocess.Popen([chrome_path, website_url])
 
-# Wait for some time (e.g., 5 seconds)
+
 time.sleep(15)
 
-# Close the Chrome browser
+
 subprocess.Popen(['taskkill', '/F', '/IM', 'chrome.exe'])
