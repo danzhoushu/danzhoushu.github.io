@@ -4,9 +4,13 @@ excerpt: "From simulations and data analysis to visualization and automation, Py
 collection: portfolio
 ---
 
-For RF engineering software tools, we can do almost everything by Python. [Scikit-RF](https://scikit-rf.org/) is a good python modules for RF simulation, data anaysis, and presentation. For data collection, pyvisa and pysicl are two typical modules to use. Of course, Python module can drive serial port, CMD commands, web brower, data base query as well.
+or RF engineering software tools, Python offers a wide range of capabilities. One notable module is [Scikit-RF](https://scikit-rf.org/) which is a powerful tool for RF simulation, data analysis, and presentation.
 
-Below is the example of S2P file smith chart plot by Scikit-RF. I also attached a piece of Python code as the examples. 
+Python provides various modules for different tasks in RF engineering. For data collection, two typical modules are pyvisa and pyscpi. Pyvisa and pyscpi enable communication with instruments using standard protocols like GPIB, USB, and Ethernet. 
+
+Python modules can also handle tasks beyond RF engineering. They can drive I2C, SPI, MIPI and other serial ports, execute CMD commands, interact with web browsers, and perform database queries. This versatility allows engineers to integrate different components and streamline their workflow efficiently.
+
+Here's an example of using Scikit-RF to plot a Smith chart based on an S2P file:
 
 
 <a href="/images/Figure_skrf_smith.png">
@@ -14,7 +18,10 @@ Below is the example of S2P file smith chart plot by Scikit-RF. I also attached 
         src="/images/Figure_skrf_smith.png" 
     >
 </a>
+
 *Pic1: Smith Chart example*
+
+# Example python code
 
 import pandas as pd
 from sqlalchemy import create_engine
