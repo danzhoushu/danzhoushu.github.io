@@ -117,5 +117,5 @@ Dan Shu
 Dowoload .pdf version of resume
 ======
 
-  * [Dan Shu Resume](https://github.com/danzhoushu/danzhoushu.github.io/blob/master/files/Dan_Shu_Resume_Architect_20230328.pdf)
+  * [Dan Shu Resume](https://github.com/danzhoushu/danzhoushu.github.io/blob/master/files/Dan_Shu_Resume_Architect_20230712.pdf)
   
