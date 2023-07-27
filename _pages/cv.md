@@ -12,7 +12,7 @@ redirect_from:
 Highlights
 ======
 * Seasoned RF Front End architect for battery driven mobile and access point reference design.
-* Optical communication module and silicon experience such as ROSA/TOSA, Laser/photo diode, TIA, Laser Driver, CDR, Equalizer.
+* Optical communication module and HighSpeed I/O silicon experience such as PCIE, 802.3, Coherent, NRZ/PAM4, ROSA/TOSA, Laser/photo diode, TIA, Laser Driver, CDR, Equalizer.
 * Low power architect for Qualcomm’s reference design.
 * RF simulation for WiFi, BT, LAA, 5G NR-U, UWB coexistence, including antenna sharing and Rx desense solving. 
 * Applied machine learning algorithm on modem SoC dynamic rail voltage scaling for power saving.
