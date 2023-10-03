@@ -18,7 +18,7 @@ Here's an example of using Scikit-RF to plot a Smith chart based on an S2P file:
         src="/images/Figure_skrf_smith.png" 
     >
 </a>
-*Pic1: Smith Chart example*
+*Pic1: Smith Chart example *
 
 # Example Python code
 
