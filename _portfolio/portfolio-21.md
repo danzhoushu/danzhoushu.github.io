@@ -12,13 +12,13 @@ Python modules can also handle tasks beyond RF engineering. They can drive I2C, 
 
 Here's an example of using Scikit-RF to plot a Smith chart based on an S2P file:
 
-
 <a href="/images/Figure_skrf_smith.png">
     <img 
         src="/images/Figure_skrf_smith.png" 
     >
 </a>
-*Pic1: Smith Chart example *
+
+*Pic1: Smith Chart example*
 
 # Example Python code
 
